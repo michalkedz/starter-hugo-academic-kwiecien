@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Michal Kedziora. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapbox'
     api_key: ''
     zoom: 15
 
@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   academicons:
     enable: true

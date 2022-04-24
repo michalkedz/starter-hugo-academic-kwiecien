@@ -1,0 +1,41 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Malware detection using Machine Learning algorithms and Reverse Engineering
+  of Android java code
+subtitle: ''
+summary: ''
+authors:
+- Michal Kedziora
+- Paulina Gawin
+- Michal T. Szczepanik
+- Ireneusz Jozwiak
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2022-04-24T17:53:36+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-04-24T15:53:36.373839Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*International Journal of Network Security and Its Applications*'
+doi: 10.5121/ijnsa
+url_pdf: http://aircconline.com/ijnsa/V11N1/11119ijnsa01.pdf
+---
